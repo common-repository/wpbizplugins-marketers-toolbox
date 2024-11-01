@@ -1,0 +1,50 @@
+/*  Plugin name: WPBizPlugins Marketers Toolbox
+    Copyright 2014  Gabriel Nordeborn  (email : gabriel@wpbizplugins.com)
+
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License, version 2, as 
+    published by the Free Software Foundation.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program; if not, write to the Free Software
+    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
+*/
+
+#acf_wpbizplugins_marketers_toolbox {
+    background-color: #1a1a1a;
+    border-radius: 15px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #d4b3e8;
+    padding: 20px 20px 20px 20px;
+    color: #fff;
+}
+
+#acf_wpbizplugins_marketers_toolbox a { color: #8b6c9d; }
+#acf_wpbizplugins_marketers_toolbox a:hover { color: #cd9fe8; }
+#acf_wpbizplugins_marketers_toolbox p { color: #fff; }
+
+#acf_wpbizplugins_marketers_toolbox.acf_postbox p.label {
+
+    text-shadow: 0 0 0 !important;
+    color: #fff;
+    
+}
+
+#acf_wpbizplugins_marketers_toolbox.acf_postbox p.label label { color: #8b6c9d; }
+#acf_wpbizplugins_marketers_toolbox.acf_postbox .field { color: #fff; }
+
+/*#acf_wpbizplugins_marketers_toolbox .button-primary {
+    background-color: #8b6c9d;
+    border-color: #d4b3e8;
+    color: #fff;
+}
+
+#acf_wpbizplugins_marketers_toolbox .button-primary:hover { background-color: #d4b3e8; color: #fff; }*/
+
+#acf_wpbizplugins_marketers_toolbox hr { border-width: 1px; border-color: #8b6c9d; border-style: dashed; margin-top: 10px; margin-bottom:10px; }
